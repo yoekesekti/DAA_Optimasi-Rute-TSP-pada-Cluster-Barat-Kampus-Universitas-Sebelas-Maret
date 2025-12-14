@@ -1,0 +1,100 @@
+{
+  "problem": "tsp_geo",
+  "instance_id": "tsp_G04",
+  "description": "TSP geo instance generated from CSV (lat/lon).",
+  "generated_at": "2025-12-14T06:37:41.711702Z",
+  "start_index": 0,
+  "n": 15,
+  "nodes": [
+    {
+      "id": 0,
+      "name": "Gedung 4 Fakultas Teknik UNS",
+      "latitude": -7.5618975,
+      "longitude": 110.8535897
+    },
+    {
+      "id": 1,
+      "name": "Gedung 3 Fakultas Teknik UNS",
+      "latitude": -7.5613265,
+      "longitude": 110.8535971
+    },
+    {
+      "id": 2,
+      "name": "Gedung 1 Fakultas Teknik UNS",
+      "latitude": -7.5620232,
+      "longitude": 110.8544086
+    },
+    {
+      "id": 3,
+      "name": "Gedung 1 Fakultas Ekonomi dan Bisnis UNS ",
+      "latitude": -7.5580278,
+      "longitude": 110.8541614
+    },
+    {
+      "id": 4,
+      "name": "Gedung 2 Fakultas Hukum UNS",
+      "latitude": -7.557541,
+      "longitude": 110.8553573
+    },
+    {
+      "id": 5,
+      "name": "Gedung 2 Fakultas Teknik UNS",
+      "latitude": -7.560362,
+      "longitude": 110.854014
+    },
+    {
+      "id": 6,
+      "name": "Aula Fakultas Ekonomi dan Bisnis UNS",
+      "latitude": -7.5588144,
+      "longitude": 110.8547883
+    },
+    {
+      "id": 7,
+      "name": "Gedung 5 Fakultas Teknik UNS",
+      "latitude": -7.5606037,
+      "longitude": 110.8544032
+    },
+    {
+      "id": 8,
+      "name": "Lapangan Basket FT UNS",
+      "latitude": -7.5616118,
+      "longitude": 110.8546047
+    },
+    {
+      "id": 9,
+      "name": "KPRI UNS",
+      "latitude": -7.5603458,
+      "longitude": 110.8549539
+    },
+    {
+      "id": 10,
+      "name": "UPT Bahasa UNS",
+      "latitude": -7.5597788,
+      "longitude": 110.8543606
+    },
+    {
+      "id": 11,
+      "name": "Fakultas Seni Rupa dan Desain UNS",
+      "latitude": -7.5594714,
+      "longitude": 110.8543174
+    },
+    {
+      "id": 12,
+      "name": "Fakultas Hukum UNS",
+      "latitude": -7.5571941,
+      "longitude": 110.8542467
+    },
+    {
+      "id": 13,
+      "name": "Fakultas Ilmu Budaya UNS",
+      "latitude": -7.5590523,
+      "longitude": 110.8551998
+    },
+    {
+      "id": 14,
+      "name": "Fakultas Ilmu Sosial dan Ilmu Politik UNS",
+      "latitude": -7.5569475,
+      "longitude": 110.8528059
+    }
+  ]
+}

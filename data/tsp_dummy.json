@@ -1,0 +1,58 @@
+{
+  "problem": "tsp_geo",
+  "instance_id": "tsp_dummy",
+  "description": "TSP geo instance generated from CSV (lat/lon).",
+  "generated_at": "2025-12-14T06:37:41.718505Z",
+  "start_index": 0,
+  "n": 8,
+  "nodes": [
+    {
+      "id": 0,
+      "name": "Aula Fakultas Ekonomi dan Bisnis UNS",
+      "latitude": -7.5588144,
+      "longitude": 110.8547883
+    },
+    {
+      "id": 1,
+      "name": "Fakultas Hukum UNS",
+      "latitude": -7.5571941,
+      "longitude": 110.8542467
+    },
+    {
+      "id": 2,
+      "name": "Gedung 5 Fakultas Teknik UNS",
+      "latitude": -7.5606037,
+      "longitude": 110.8544032
+    },
+    {
+      "id": 3,
+      "name": "Gedung 3 Fakultas Teknik UNS",
+      "latitude": -7.5613265,
+      "longitude": 110.8535971
+    },
+    {
+      "id": 4,
+      "name": "Gedung 1 Fakultas Ekonomi dan Bisnis UNS ",
+      "latitude": -7.5580278,
+      "longitude": 110.8541614
+    },
+    {
+      "id": 5,
+      "name": "Gedung 2 Fakultas Hukum UNS",
+      "latitude": -7.557541,
+      "longitude": 110.8553573
+    },
+    {
+      "id": 6,
+      "name": "Fakultas Ilmu Sosial dan Ilmu Politik UNS",
+      "latitude": -7.5569475,
+      "longitude": 110.8528059
+    },
+    {
+      "id": 7,
+      "name": "Fakultas Ilmu Budaya UNS",
+      "latitude": -7.5590523,
+      "longitude": 110.8551998
+    }
+  ]
+}
